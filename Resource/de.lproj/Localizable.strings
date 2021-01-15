@@ -10,27 +10,27 @@
 //********** DEVICE DEVICE
 //****************************************
 "kSTR_HELP_WarrantyCampaign" =
-"Write a review and get your warranty extended!
-Would you mind taking a few minutes to write a review for Qudelix-5K, please? Your comments and reviews help us to improve 5K better. Please share your thought on 5K with others at Amazon or any Audio Communities. We provide additional warranty extension (up to 8 months) on any published reviews at Amazon or Audio Communities.
+"Schreibe eine Bewertung und wir verlängern deine Garantie!
+Würdest du dir ein paar Minuten Zeit nehmen um eine Bewertung für den Qudelix-5K zu verfassen? Deine Kommentare und Bewertungen helfen uns den 5K weiter zu verbessern. Bitte teile deinen Bericht über den 5K auf Amazon oder in einer beliebigen Audio Community. Wir gewähren eine zusätzliche Garantieverlängerung (bis zu 8 Monate) für jede veröffentlichte Bewertung.
 ";
 
 //****************************************
 //********** DEVICE SEARCH
 //****************************************
 "kSTR_HELP_Connection" =
-"5K allows the APP connection with one device at a time. Remove the existing APP connection before making a new connection with another device.
+"5K erlaubt die APP Verbindung mit einem Gerät zur gleichen Zeit. Trenne die bestehende App Verbindung bevor du eine Verbindung zu einem anderen Gerät aufbaust.
 
-The APP link is different from the BR/EDR link for A2DP. To stream audio, connect(pair) 5K to the smartphone first. (iOS--> Settings --> Bluetooth --> MY DEVICES)
+Die APP Verknüpfung unterscheidet sich von der BR/EDR Verknüpfung für A2DP. Um Audio zu streamen verbinde 5K zuerst mit dem Smartphone. (iOS --> Settings --> Bluetooth --> MEINE GERÄTE)
 
 
-[Trouble Shooting]
+[Fehlerbehebung]
 
-If you can't connect your 5K with the app, please follow the steps below.
+Wenn sich dein 5K nicht mit der App verbinden lässt, führe bitte die folgenden Schritte aus.
 
-1. Remove all devices from the system Bluetooth paired device list
-2. Pair 5K with the smartphone
-3. Uninstall / Install Qudelix mobile app
-4. Reboot the smartphone
+1. Entferne alle Geräte aus der Liste der gekoppelten Bluethooth Geräte
+2. Verbinde 5K mit dem Smartphone
+3. Führe eine Neuinstallation der Qudelix App durch
+4. Starte das Smartphone neu
 ";
 
 //****************************************
