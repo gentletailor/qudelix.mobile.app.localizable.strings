@@ -37,11 +37,11 @@ Wenn sich dein 5K nicht mit der App verbinden lässt, führe bitte die folgenden
 //********** DEVICE POWER
 //****************************************
 "kSTR_HELP_AutoPower" =
-"ON at USB DAC
-turns 5K on when connected to PC as a USB DAC.
+"EIN als USB DAC
+schaltet 5K ein, wenn er als USB DAC mit einem PC verbunden wird.
 
-OFF at Charger
-turns 5K off when connected to a charger.
+AUS am Ladegerät
+schaltet 5k aus, wenn er an ein Ladegerät angeschlossen wird.
 
 ON/OFF upon Charger
 turns 5K on or off, respectively, upon the connection or disconnection to a USB charger.";
@@ -55,25 +55,25 @@ To disable the charger, 5K should have the battery at least more than 20%. The c
 //********** DEVICE MISC
 //****************************************
 "kSTR_HELP_BTN" =
-"The buttons are named as BLUE Upper (BU), BLUE Lower (BL), RED Upper (RU), and RED Lower (RL), respectively.
+"Die Knöpfe sind als BLAU Oben (BO), BLAU Unten (BU), ROT Oben (RO) und ROT Unten (RU) benannt.
 
-[Default Button Behavior]
+[Standard Button Verhalten]
 
-BLUE Upper (BU, Notched)
-   Pairing Mode (long 3 sec)
-   Play/Pause (single click)
-   Next Track (double click)
-   Answering Incoming Call (single click)
+BLAU Oben (BO, Erhebung)
+   Pairing Mode (lang 3s)
+   Play/Pause (einfacher Klick)
+   Nächster Track (doppelter Klick)
+   Eingehenden Anruf annehmen (einfacher Klick)
 
-BLUE Lower (BL)
-   Power On/Off (long 3 sec)
+BLAU Unten (BU)
+   Power Ein/Aus (lang 3s)
    Previous Track (double click)
 
-RED Upper (RU)
-   Volume Up
+ROT Oben (RO)
+   Lauter
 
-RED Lower (RL)
-   Volume Down
+ROT Unten (RU)
+   Leiser
 
 Optionally, the Power On/Off shortcut with the two-button press can be enabled. Single BLUE Lower (BL) press can be mapped for navigating to the previous track.";
 
